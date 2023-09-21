@@ -1,7 +1,6 @@
 {
   "name": "webpack-template-basic",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "webpack-dev-server --mode development",
@@ -31,5 +30,15 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Neyong/parcel-template-basic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/An-Neyong/parcel-template-basic/issues"
+  },
+  "homepage": "https://github.com/An-Neyong/parcel-template-basic#readme",
+  "description": ""
 }
